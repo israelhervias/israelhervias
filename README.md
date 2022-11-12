@@ -33,5 +33,6 @@
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ### Contact: 
 [![Email](https://img.shields.io/badge/hello@israelhervias.in-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](israelhervias@hotmail.com)
