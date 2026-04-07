@@ -36,3 +36,34 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ### Contact: 
 [![Email](https://img.shields.io/badge/hello@israelhervias.in-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](israelhervias@hotmail.com)
+
+
+# Hi, I'm Israel Hervías
+
+I’m a Data Engineer with experience building data pipelines, analytical models, and BI solutions that help organizations transform raw data into actionable insights.
+
+My background combines data engineering and business intelligence, with hands-on work in:
+- Python-based ETL development
+- SQL data extraction and transformation
+- Microsoft Fabric and modern data architectures
+- Power BI semantic modeling and KPI reporting
+- Process automation for operational and management reporting
+
+I enjoy working on projects that connect data architecture with business value, especially in environments where reliability, maintainability, and analytical clarity matter.
+
+## Core Skills
+- Python
+- SQL
+- Microsoft Fabric
+- Power BI
+- Databricks
+- Azure Data Solutions
+- Data Modeling
+- ETL / ELT
+- Dashboard Automation
+- Git / GitHub
+
+## Current Focus
+- Building production-ready data projects
+- Improving software engineering practices for data workflows
+- Strengthening cloud, Spark, and scalable analytics capabilities
