@@ -24,7 +24,7 @@ I currently work mainly with **Python, SQL, Microsoft Fabric, Databricks, Azure 
 
 - 🎯 Fabric Data Engineer Associate — **DP-700**
 
-- Databricks Certified Data Engineer Associate
+- 🎯 Databricks Certified Data Engineer Associate
 ---
 
 ## 🚀 Featured Project
