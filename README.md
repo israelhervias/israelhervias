@@ -63,7 +63,9 @@ I enjoy working on projects that connect data architecture with business value, 
 - Dashboard Automation
 - Git / GitHub
 
-## Current Focus
-- Building production-ready data projects
-- Improving software engineering practices for data workflows
-- Strengthening cloud, Spark, and scalable analytics capabilities
+🚀 Currently Building
+
+ATLAS Data Platform
+ Metadata-driven Lakehouse platform focused on scalable ingestion, Medallion Architecture, data quality, governance and AI-ready data products.
+
+Azure · Databricks · Delta Lake · PySpark · Microsoft Fabric
