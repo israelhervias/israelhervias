@@ -1,71 +1,134 @@
-### Hi there 👋
+# Hi, I'm Israel Hervías 👋
 
+## Data Engineer | Building Modern Data Platforms
 
-### Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+I design and build end-to-end data solutions that transform raw data into reliable, scalable, and analytics-ready data products.
 
+My background combines **Data Engineering and Business Intelligence**, allowing me to work across the full data lifecycle: from ingestion and transformation to data modeling, automation, and analytics.
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/seaborn-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+I currently work mainly with **Python, SQL, Microsoft Fabric, Databricks, Azure and Power BI**, with a growing focus on Lakehouse architectures, scalable data pipelines, metadata-driven solutions, and software engineering practices for data.
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+---
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+## 🚀 Featured Project
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+### ATLAS Data Platform
 
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)]
-[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]
+**ATLAS** is my main Data Engineering project and the backbone of my technical portfolio.
 
+The goal is to design and progressively build a **modern, metadata-driven Lakehouse platform on Azure**, covering the complete lifecycle of enterprise data.
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-### Contact: 
-[![Email](https://img.shields.io/badge/hello@israelhervias.in-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](israelhervias@hotmail.com)
+The platform explores concepts such as:
 
+- Metadata-driven data ingestion
+- Medallion Architecture: Bronze, Silver and Gold
+- Batch and incremental processing
+- Delta Lake and Lakehouse patterns
+- Data quality and observability
+- Data governance and lineage
+- CI/CD and Infrastructure as Code
+- Analytical data products
+- AI-ready data architecture
+- Data and AI agents
 
-# Hi, I'm Israel Hervías
+### Technology direction
 
-I’m a Data Engineer with experience building data pipelines, analytical models, and BI solutions that help organizations transform raw data into actionable insights.
+`Azure` `Databricks` `Microsoft Fabric` `Delta Lake` `PySpark` `Python` `SQL` `Power BI`
 
-My background combines data engineering and business intelligence, with hands-on work in:
-- Python-based ETL development
-- SQL data extraction and transformation
-- Microsoft Fabric and modern data architectures
-- Power BI semantic modeling and KPI reporting
-- Process automation for operational and management reporting
+> ATLAS is being developed incrementally as both a Data Engineering portfolio project and part of my Master's work in Big Data & Data Engineering.
 
-I enjoy working on projects that connect data architecture with business value, especially in environments where reliability, maintainability, and analytical clarity matter.
+---
 
-## Core Skills
-- Python
-- SQL
+## 🏗️ What I Build
+
+### Data Engineering
+- ETL / ELT pipelines
+- Batch and incremental data processing
+- Medallion architectures
+- Lakehouse solutions
+- Data transformation frameworks
+
+### Data Platforms
+- Azure-based data architectures
+- Microsoft Fabric solutions
+- Databricks and Delta Lake workloads
+- Metadata-driven pipelines
+- Scalable and maintainable data workflows
+
+### Analytics Engineering
+- Analytical data models
+- Power BI semantic models
+- KPI frameworks
+- Operational and management reporting
+- Reporting automation
+
+### Software Engineering for Data
+- Modular Python development
+- Testing and data quality
+- Logging and error handling
+- Git-based development workflows
+- CI/CD practices
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Python` `SQL` `PySpark`
+
+**Data Engineering**
+
+`Databricks` `Delta Lake` `Apache Spark` `ETL / ELT`
+
+**Microsoft Data Platform**
+
+`Azure` `Microsoft Fabric` `Power BI`
+
+**Engineering**
+
+`Git` `GitHub` `pytest` `CI/CD`
+
+**Architecture**
+
+`Lakehouse` `Medallion Architecture` `Data Modeling` `Metadata-Driven Architecture`
+
+---
+
+## 📌 Featured Projects
+
+### 🏗️ ATLAS Data Platform
+Metadata-driven Lakehouse platform designed to explore modern Data Engineering architecture on Azure.
+
+### 🥉🥈🥇 Medallion Pipeline Demo
+End-to-end data pipeline implementing **Bronze → Silver → Gold** layers, from raw ingestion to analytics-ready datasets.
+
+### 🐍 Python ETL Framework
+Modular Python framework for building maintainable ETL pipelines with reusable connectors, configuration management, logging and automated testing.
+
+---
+
+## 🎯 Current Focus
+
+I'm currently focused on strengthening my skills in:
+
+- Advanced Databricks and Apache Spark
 - Microsoft Fabric
-- Power BI
-- Databricks
-- Azure Data Solutions
-- Data Modeling
-- ETL / ELT
-- Dashboard Automation
-- Git / GitHub
+- Azure Data Engineering
+- Production-grade PySpark pipelines
+- Data quality and observability
+- CI/CD for Data Engineering
+- Metadata-driven architectures
+- AI integration within modern data platforms
 
-🚀 Currently Building
+My long-term objective is to evolve from building individual pipelines into designing **complete, scalable and intelligent data platforms**.
 
-ATLAS Data Platform
- Metadata-driven Lakehouse platform focused on scalable ingestion, Medallion Architecture, data quality, governance and AI-ready data products.
+---
 
-Azure · Databricks · Delta Lake · PySpark · Microsoft Fabric
+## 🤝 Let's Connect
+
+I'm interested in **Data Engineering, Lakehouse architectures, Data Platforms and applied AI for data systems**.
+
+Feel free to explore my repositories and follow the evolution of **ATLAS Data Platform**.
+
+📍 Madrid, Spain
