@@ -8,6 +8,11 @@ My background combines **Data Engineering and Business Intelligence**, allowing 
 
 I currently work mainly with **Python, SQL, Microsoft Fabric, Databricks, Azure and Power BI**, with a growing focus on Lakehouse architectures, scalable data pipelines, metadata-driven solutions, and software engineering practices for data.
 
+## Certifications
+DP-900
+pl-300
+DP-600
+
 ---
 
 ## 🚀 Featured Project
